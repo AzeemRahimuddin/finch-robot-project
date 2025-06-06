@@ -19,6 +19,7 @@ Your program must demonstrate your understanding of Java programming concepts fr
 - Practice technical communication through presentations and documentation
 
 ## Timeline/Checklist
+I had one week to complete the Finch maze project, so I broke it into steps. First, I connected the Finch and tested basic movements and sensor readings. Then I worked on making it move forward and turn when it saw a wall using the distance sensor. After that, I added lights and sounds to give feedback, and I tested the robot in a simple maze. On the last day, I cleaned up my code, added comments, and made sure the robot could finish the maze on its own.
 
 ### Planning & Research
 - Choose your challenge: dance, drawing, or maze navigation
@@ -47,8 +48,10 @@ Your program must demonstrate your understanding of Java programming concepts fr
 
 ### Deployment
 - https://youtube.com/shorts/wm8ExPyb7CA
+-  Above is the link to youtube video of robot navigating maze. 
 
 ## Required Components
+For this project, I needed to have a finch robot and a computer containing all necessary files in order for the finch robot to run properly and achieve the goal. 
 
 ### Technical Requirements
 Your program must include at least 5 of these Java/OOP concepts:
@@ -82,6 +85,7 @@ Your program must include at least 5 of these Java/OOP concepts:
 | **Development & Version Control** | The repository demonstrates excellent use of Git and GitHub by having many commits and updates to one or more branches of the repository | The repository shows great use of Git and GitHub by having more than 2 new commits to the repository | The repository demonstrates basic used of Git and GitHub by having at least 1 new commit to a branch of the repository | The repository only have the initial clone of the or no project submitted |
 
 ## Challenge-Specific Guidelines
+For the Maze Navigation Challenge, I had to make sure my Finch could move through a maze without any help. I used the distance sensor to detect walls and programmed it to turn when it got too close. The robot had to decide what to do on its own, not just follow a set path. I also added lights and sounds to show what the Finch was doing as it moved. Everything had to work together so the robot could finish the maze from start to end by itself.
 
 ### Dance Challenge
 Create a choreographed dance routine for your Finch that synchronizes:
