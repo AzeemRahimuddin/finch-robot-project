@@ -46,7 +46,7 @@ Your program must demonstrate your understanding of Java programming concepts fr
 - Submit final project to GitHub
 
 ### Deployment
-- Demonstrate your project
+- https://youtube.com/shorts/wm8ExPyb7CA
 
 ## Required Components
 
